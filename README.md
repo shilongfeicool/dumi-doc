@@ -6,7 +6,7 @@
 Install dependencies,
 
 ```bash
-$ npm i
+$ npm i dumi
 ```
 
 Start the dev server,
